@@ -1,4 +1,4 @@
-# BoiGhor
+# BoiGhor-server
 
 It is a demo e-commerce book-shop related website. I have listed below some features of it. 
 
@@ -18,4 +18,5 @@ It is a demo e-commerce book-shop related website. I have listed below some feat
 - Express JS
 - MongoDB
 
-You can see server side code in [BoiGhor Client](https://github.com/Porgramming-Hero-web-course/full-stack-client-Aporbo)# BoiGhor-server
+You can see server side code in [BoiGhor Client](https://github.com/Porgramming-Hero-web-course/full-stack-client-Aporbo)
+
