@@ -2,7 +2,7 @@
 
 It is a demo e-commerce book-shop related website. I have listed below some features of it. 
 
-- any one can order books .
+- Any one can order books .
 - User and Admin can sign up and log in to this website using google.
 - User can see his/her all ordered book. 
 - There is a dashboard for admin by which admin can maintain and delete Books for showing users. 
