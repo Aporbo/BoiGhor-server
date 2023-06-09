@@ -1,0 +1,31 @@
+.SideNav a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+}
+
+.SideNav{
+    background: #2f4050 ;
+    width: 100%;
+    height: 100vh;
+    /* padding: 0px 40px; */
+}
+.SideNav li {
+    list-style: none;
+    /* padding:10px 90px;
+    margin: 10 0px; */
+    display: flex;
+}
+.SideNav li {
+    padding:10px 0px;
+    margin: 10 0px;
+    padding-left: 30px;
+    display: block;
+}
+.SideNav li:hover{
+    background: #293846;
+}
+.SideNav ul {
+    padding: 0;
+    margin: 0;
+}
